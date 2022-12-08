@@ -76,3 +76,4 @@ _1. Breadth-First Search(BFS) Algorithm_: BFS starts traversing the graph from t
 
 _2. Depth First Search(DFS) Algorithm_: DFS starts traversing the graph from the initial node of the graph, and then it goes deeper and deeper until it finds the node has no child. Then, pointer is backtracked from the dead end towards the adjacent unexplored nodes. The stack data structure is used in DFS.
 
+**Applications of Graphs**
