@@ -3,11 +3,11 @@
 
 The _graph_ is a non linear data structure that consists of finite sets of vertices(nodes) and a bunch of edges connecting with them.
 
-                                      **graph = vertices + edges**
+                              **graph = vertices + edges**
 
 Graph **G** is a pair of sets**(V,E)** where **V** is the vertices and **E** sets of edges connecting with the pair of vertices.
 
-**Graph Terminologies**
+# **Graph Terminologies**
 _Adjacent Vertices_: If there is an edge between two vertices.
 
 _Adjacent Edges_: If there is a common vertex between two edges.
@@ -20,7 +20,7 @@ _Cycle_: A path that has only one repeated vertices are the first and last verti
 
 _Walk_: A walk in the sequence of vertices and edges of the graph used to traverse from one vertex to another.
 
-**Types of Graph**
+# **Types of Graph**
 _Finite graph_: where the no. of vertices and edges are finite in number.
 
 _Infinite graph_: the number of vertices and number of edges is infinite.
@@ -51,7 +51,7 @@ _Cyclic graph_: if it contains atleast one cycle in a graph.
 
 _Acyclic graph_: if it contains no cycle at all.
 
-**Graph Representation**
+# **Graph Representation**
 There are generally two ways to represent the graph structure:
 
 **1. Adjacency Matrix:** is a sequential representation used to represent nodes that are adjacent to each other. _If there is an edge between two vertices_, the value of the corresponding element of the graph is _1, otherwise 0_. In the case of weighted graphs, if there is an edge present, rather than showing whether there is or not a node between two vertices in the form of 1(=true) or 0(=false), we can store the weight of the edge to show that an edge exists.
@@ -69,10 +69,10 @@ UNDIRECTED WEIGHTED GRAPH REPRESENTATION
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
 
 
-<img width="303" alt="DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY" src="https://user-images.githubusercontent.com/112563080/206500524-474c6fb4-3ffa-415a-948e-63f9f9f4f99f.png">
+<img width="520" alt="DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY" src="https://user-images.githubusercontent.com/112563080/206500524-474c6fb4-3ffa-415a-948e-63f9f9f4f99f.png">
 _Directed graph representation implemented using array_
 
-**Graph Traversal**
+# **Graph Traversal**
 Refers to the process of examining each edge and vertex once in a graph. Can be performed in 2 ways:
 
 _1. Breadth-First Search(BFS) Algorithm_: BFS starts traversing the graph from the root node and explores all the neighbouring nodes. Then, the nearest node is selected and all the new nodes are explored. The queue data structure is used in BFS.
