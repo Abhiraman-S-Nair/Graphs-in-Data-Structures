@@ -70,7 +70,7 @@ DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
 
 
 <img width="520" alt="DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY" src="https://user-images.githubusercontent.com/112563080/206500524-474c6fb4-3ffa-415a-948e-63f9f9f4f99f.png">
-_Directed graph representation implemented using array_
+    _Directed graph representation implemented using array_
 
 # **Graph Traversal**
 Refers to the process of examining each edge and vertex once in a graph. Can be performed in 2 ways:
