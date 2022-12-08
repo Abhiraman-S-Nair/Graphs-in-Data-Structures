@@ -69,7 +69,8 @@ UNDIRECTED WEIGHTED GRAPH REPRESENTATION
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
 
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY
-<img width="100" alt="Directed Graph representation implemented using array" src="https://user-images.githubusercontent.com/112563080/206498869-2ffa342b-b0c5-4b3e-9de4-c4ff47b34136.png">
+
+<img width="303" alt="Screenshot 2022-12-08 at 9 42 03 PM" src="https://user-images.githubusercontent.com/112563080/206500524-474c6fb4-3ffa-415a-948e-63f9f9f4f99f.png">
 
 
 **Graph Traversal**
