@@ -3,7 +3,7 @@
 
 The _graph_ is a non linear data structure that consists of finite sets of vertices(nodes) and a bunch of edges connecting with them.
 
-                                                     graph = vertices + edges
+        graph = vertices + edges
 
 Graph **G** is a pair of sets**(V,E)** where **V** is the vertices and **E** sets of edges connecting with the pair of vertices.
 
