@@ -3,7 +3,7 @@
 
 The _graph_ is a non linear data structure that consists of finite sets of vertices(nodes) and a bunch of edges connecting with them.
 
-                              graph = vertices + edges
+                                                     graph = vertices + edges
 
 Graph **G** is a pair of sets**(V,E)** where **V** is the vertices and **E** sets of edges connecting with the pair of vertices.
 
@@ -58,19 +58,19 @@ There are generally two ways to represent the graph structure:
 
 Eg: Consider two vertices A and B such that they are connected by an edge whose weight is 5. Then, we can use the weight of that edge, that is 5, to show that there exists an edge in between A and B.
 
-UNDIRECTED GRAPH REPRESENTATION
+<UNDIRECTED GRAPH REPRESENTATION>
 
-DIRECTED GRAPH REPRESENTATION
+<DIRECTED GRAPH REPRESENTATION>
 
-UNDIRECTED WEIGHTED GRAPH REPRESENTATION
+<UNDIRECTED WEIGHTED GRAPH REPRESENTATION>
 
 **2. Adjacency List:** is a linked representation maintaining the list of its neighbours for each vertex in the graph. Every vertex of the graph contains the list of its adjacency vertices. Array of vertices whichhave vertices, indexed by each vertex number and for every vertex, the array element points to a linked list of neighbours of a vertex.
 
-DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
+<DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST>
 
 
 <img width="520" alt="DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY" src="https://user-images.githubusercontent.com/112563080/206500524-474c6fb4-3ffa-415a-948e-63f9f9f4f99f.png">
-    _Directed graph representation implemented using array_
+Directed graph representation implemented using array
 
 # Graph Traversal
 Refers to the process of examining each edge and vertex once in a graph. Can be performed in 2 ways:
