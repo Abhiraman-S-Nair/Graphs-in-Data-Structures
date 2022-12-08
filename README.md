@@ -69,7 +69,8 @@ UNDIRECTED WEIGHTED GRAPH REPRESENTATION
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
 
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY
-<img width="303" alt="Screenshot 2022-12-08 at 9 36 02 PM" src="https://user-images.githubusercontent.com/112563080/206498869-2ffa342b-b0c5-4b3e-9de4-c4ff47b34136.png">
+<img width="100" alt="Directed Graph representation implemented using array" src="https://user-images.githubusercontent.com/112563080/206498869-2ffa342b-b0c5-4b3e-9de4-c4ff47b34136.png">
+
 
 **Graph Traversal**
 Refers to the process of examining each edge and vertex once in a graph. Can be performed in 2 ways:
