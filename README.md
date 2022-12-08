@@ -1,7 +1,9 @@
 # Graphs-in-Data-Structures
 **All you need to know about graphs to get started**
 
-The _graph_ is a non linear data structure that consists of finite sets of vertices and a bunch of edges connecting with them. 
+The _graph_ is a non linear data structure that consists of finite sets of vertices(nodes) and a bunch of edges connecting with them.
+
+                                      **graph = vertices + edges**
 
 Graph **G** is a pair of sets**(V,E)** where **V** is the vertices and **E** sets of edges connecting with the pair of vertices.
 
@@ -19,7 +21,6 @@ _Cycle_: A path that has only one repeated vertices are the first and last verti
 _Walk_: A walk in the sequence of vertices and edges of the graph used to traverse from one vertex to another.
 
 **Types of Graph**
-
 _Finite graph_: where the no. of vertices and edges are finite in number.
 
 _Infinite graph_: the number of vertices and number of edges is infinite.
@@ -68,6 +69,7 @@ UNDIRECTED WEIGHTED GRAPH REPRESENTATION
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING LINKED LIST
 
 DIRECTED GRAPH REPRESENTATION IMPLEMENTED USING ARRAY
+<img width="303" alt="Screenshot 2022-12-08 at 9 36 02 PM" src="https://user-images.githubusercontent.com/112563080/206498869-2ffa342b-b0c5-4b3e-9de4-c4ff47b34136.png">
 
 **Graph Traversal**
 Refers to the process of examining each edge and vertex once in a graph. Can be performed in 2 ways:
